@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50d7cbac-dd4c-4d0a-9a4c-a3742b318f58" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\develop\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a1u3HyGT3ZbJM80jgwthaQYqZB" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.knowmorecs.yqrpc.server" />
+      <recent name="com.knowmorecs.yqrpc.codec" />
+      <recent name="com.knowmorecs.yqrpc.common.utils" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.knowmorecs.yqrpc.server" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.knowmorecs.yqrpc.example" />
+      <recent name="com.knowmorecs.yqrpc.client" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+      <command value="mvn clean" />
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.knowmorecs.yqrpc.example.Client" />
+      <module name="yq-rpc-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knowmorecs.yqrpc.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.knowmorecs.yqrpc.example.Server" />
+      <module name="yq-rpc-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knowmorecs.yqrpc.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSONDecoderTest.decode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yq-rpc-codec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knowmorecs.yqrpc.codec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.knowmorecs.yqrpc.codec" />
+      <option name="MAIN_CLASS_NAME" value="com.knowmorecs.yqrpc.codec.JSONDecoderTest" />
+      <option name="METHOD_NAME" value="decode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceManagerTest.lookup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yq-rpc-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knowmorecs.yqrpc.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.knowmorecs.yqrpc.server" />
+      <option name="MAIN_CLASS_NAME" value="com.knowmorecs.yqrpc.server.ServiceManagerTest" />
+      <option name="METHOD_NAME" value="lookup" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceManagerTest.register" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yq-rpc-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knowmorecs.yqrpc.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.knowmorecs.yqrpc.server" />
+      <option name="MAIN_CLASS_NAME" value="com.knowmorecs.yqrpc.server.ServiceManagerTest" />
+      <option name="METHOD_NAME" value="register" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="JUnit.ServiceManagerTest.lookup" />
+        <item itemvalue="JUnit.ServiceManagerTest.register" />
+        <item itemvalue="JUnit.JSONDecoderTest.decode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50d7cbac-dd4c-4d0a-9a4c-a3742b318f58" name="Default Changelist" comment="" />
+      <created>1585915221108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585915221108</updated>
+      <workItem from="1585915224302" duration="1174000" />
+      <workItem from="1585916419215" duration="227000" />
+      <workItem from="1585916663057" duration="150000" />
+      <workItem from="1585916870713" duration="134000" />
+      <workItem from="1585917021057" duration="10394000" />
+      <workItem from="1586068155647" duration="756000" />
+      <workItem from="1586069381457" duration="371000" />
+      <workItem from="1586069773901" duration="206000" />
+      <workItem from="1586070002494" duration="29584000" />
+      <workItem from="1586103952023" duration="5202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

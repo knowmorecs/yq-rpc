@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/yq-rpc.iml" filepath="$PROJECT_DIR$/.idea/yq-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yq-rpc-client/yq-rpc-client.iml" filepath="$PROJECT_DIR$/yq-rpc-client/yq-rpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yq-rpc-codec/yq-rpc-codec.iml" filepath="$PROJECT_DIR$/yq-rpc-codec/yq-rpc-codec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yq-rpc-common/yq-rpc-common.iml" filepath="$PROJECT_DIR$/yq-rpc-common/yq-rpc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yq-rpc-example/yq-rpc-example.iml" filepath="$PROJECT_DIR$/yq-rpc-example/yq-rpc-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yq-rpc-proto/yq-rpc-proto.iml" filepath="$PROJECT_DIR$/yq-rpc-proto/yq-rpc-proto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yq-rpc-server/yq-rpc-server.iml" filepath="$PROJECT_DIR$/yq-rpc-server/yq-rpc-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yq-rpc-transport/yq-rpc-transport.iml" filepath="$PROJECT_DIR$/yq-rpc-transport/yq-rpc-transport.iml" />
+    </modules>
+  </component>
+</project>

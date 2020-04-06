@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yq-rpc-codec" />
+        <module name="yq-rpc-common" />
+        <module name="yq-rpc-server" />
+        <module name="yq-rpc-client" />
+        <module name="yq-rpc-example" />
+        <module name="yq-rpc-transport" />
+        <module name="yq-rpc-proto" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="yq-rpc" target="1.8" />
+      <module name="yq-rpc-client" target="1.8" />
+      <module name="yq-rpc-codec" target="1.8" />
+      <module name="yq-rpc-common" target="1.8" />
+      <module name="yq-rpc-example" target="1.8" />
+      <module name="yq-rpc-proto" target="1.8" />
+      <module name="yq-rpc-server" target="1.8" />
+      <module name="yq-rpc-transport" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
